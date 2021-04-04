@@ -1,4 +1,4 @@
-# iecgoldnet.com  
+# IEC-Goldnet  
 ### Token.sol
 
 pragma solidity ^0.5.8;
